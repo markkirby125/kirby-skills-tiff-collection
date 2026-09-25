@@ -3,6 +3,9 @@ name: kirby-skills-tiff-collection
 description: "Use when routing PLR personalisation, Voice DNA, audience intel, or storyline-bank work across the Tiffany Lambert suite."
 category: helper
 triggers: [kirby-tiff, tiff-collection, plr-skills, tiff-plr, plr-suite]
+risk: unverified
+author: william-fitzpatrick
+tags: [kirby, ai-agent, workflow]
 ---
 
 # Tiffany Lambert PLR Skills Collection
@@ -43,3 +46,14 @@ Fusion reads these three files only (create via the matching extractor if missin
 ## Quick Invocation Guide
 - To list all Kirby skills: use `/kirby`.
 - To execute a PLR workflow, prompt with a child trigger (e.g., `personalize-plr`, `voice-dna`, `storyline-bank`).
+
+
+## Examples
+
+*(Add specific conversational examples here showing how the agent should behave.)*
+
+
+## Limitations (When NOT to Use)
+
+- Do not use this skill outside of its intended scope.
+- Stop and ask the user for clarification if the requirements are ambiguous.
