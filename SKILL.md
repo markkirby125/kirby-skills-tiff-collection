@@ -4,7 +4,7 @@ description: "Use when routing PLR personalisation, Voice DNA, audience intel, o
 category: helper
 triggers: [kirby-tiff, tiff-collection, plr-skills, tiff-plr, plr-suite]
 risk: unverified
-author: william-fitzpatrick
+author: paul-kirby
 tags: [kirby, ai-agent, workflow]
 ---
 
